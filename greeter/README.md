@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/version-0.0.2-brightgreen" alt="version" />
+    <img src="https://img.shields.io/badge/version-0.0.3-brightgreen" alt="version" />
     <img src="https://img.shields.io/badge/README-available-brightgreen" alt="README" />
 </p>
 
@@ -24,6 +24,6 @@ Static method that greets.
 
 **Kind**: static method of [<code>Greeter</code>](#Greeter)
 
-| Param | Type                                                       | Default         |
-| ----- | ---------------------------------------------------------- | --------------- |
-| lang  | <code>&quot;en&quot;</code> \| <code>&quot;fr&quot;</code> | <code>en</code> |
+| Param | Type                                                                                      | Default         |
+| ----- | ----------------------------------------------------------------------------------------- | --------------- |
+| lang  | <code>&quot;en&quot;</code> \| <code>&quot;fr&quot;</code> \| <code>&quot;ja&quot;</code> | <code>en</code> |
