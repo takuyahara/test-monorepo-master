@@ -2,8 +2,5 @@
   "editor.autoIndent": "advanced",
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "js/ts.implicitProjectConfig.checkJs": true,
-  "files.associations": {
-    "*.gs": "javascript"
-  }
+  "js/ts.implicitProjectConfig.checkJs": true
 }
