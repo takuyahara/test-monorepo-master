@@ -5,19 +5,25 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/version-0.0.1-brightgreen" alt="version" />
+    <img src="https://img.shields.io/badge/version-0.0.2-brightgreen" alt="version" />
     <img src="https://img.shields.io/badge/README-available-brightgreen" alt="README" />
 </p>
 
 <a name="Greeter"></a>
 
 ## Greeter
+
 Class to greet.
 
 **Kind**: global class  
 <a name="Greeter.greet"></a>
 
-### Greeter.greet() ⇒ <code>string</code>
+### Greeter.greet(lang) ⇒ <code>string</code>
+
 Static method that greets.
 
-**Kind**: static method of [<code>Greeter</code>](#Greeter)  
+**Kind**: static method of [<code>Greeter</code>](#Greeter)
+
+| Param | Type                                                       | Default         |
+| ----- | ---------------------------------------------------------- | --------------- |
+| lang  | <code>&quot;en&quot;</code> \| <code>&quot;fr&quot;</code> | <code>en</code> |
